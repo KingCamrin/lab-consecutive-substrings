@@ -1,2 +1,3 @@
-Please add your pseudocode to this file
-And a written explanation of your solution
+So the objective is to fine all the consecutive substrings
+ Find the fastest way to loop through the array
+ 
